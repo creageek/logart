@@ -1,0 +1,13 @@
+name: logart
+description: Lightweight logger for Dart.
+version: 0.0.1
+author: Ruslan Kishai <ruslankishai@gmail.com>
+homepage: https://github.com/creageek/logart
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.6.5
